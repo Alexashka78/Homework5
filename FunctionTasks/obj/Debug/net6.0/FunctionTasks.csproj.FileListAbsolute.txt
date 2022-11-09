@@ -1,0 +1,15 @@
+C:\Users\Krasi\Desktop\Homework5\FunctionTasks\bin\Debug\net6.0\FunctionTasks.exe
+C:\Users\Krasi\Desktop\Homework5\FunctionTasks\bin\Debug\net6.0\FunctionTasks.deps.json
+C:\Users\Krasi\Desktop\Homework5\FunctionTasks\bin\Debug\net6.0\FunctionTasks.runtimeconfig.json
+C:\Users\Krasi\Desktop\Homework5\FunctionTasks\bin\Debug\net6.0\FunctionTasks.dll
+C:\Users\Krasi\Desktop\Homework5\FunctionTasks\bin\Debug\net6.0\FunctionTasks.pdb
+C:\Users\Krasi\Desktop\Homework5\FunctionTasks\obj\Debug\net6.0\FunctionTasks.csproj.AssemblyReference.cache
+C:\Users\Krasi\Desktop\Homework5\FunctionTasks\obj\Debug\net6.0\FunctionTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krasi\Desktop\Homework5\FunctionTasks\obj\Debug\net6.0\FunctionTasks.AssemblyInfoInputs.cache
+C:\Users\Krasi\Desktop\Homework5\FunctionTasks\obj\Debug\net6.0\FunctionTasks.AssemblyInfo.cs
+C:\Users\Krasi\Desktop\Homework5\FunctionTasks\obj\Debug\net6.0\FunctionTasks.csproj.CoreCompileInputs.cache
+C:\Users\Krasi\Desktop\Homework5\FunctionTasks\obj\Debug\net6.0\FunctionTasks.dll
+C:\Users\Krasi\Desktop\Homework5\FunctionTasks\obj\Debug\net6.0\refint\FunctionTasks.dll
+C:\Users\Krasi\Desktop\Homework5\FunctionTasks\obj\Debug\net6.0\FunctionTasks.pdb
+C:\Users\Krasi\Desktop\Homework5\FunctionTasks\obj\Debug\net6.0\FunctionTasks.genruntimeconfig.cache
+C:\Users\Krasi\Desktop\Homework5\FunctionTasks\obj\Debug\net6.0\ref\FunctionTasks.dll
